@@ -1,0 +1,1 @@
+Doughnut chart. Each slice is labelled, scaled and coloured according to its value in the dataset.
